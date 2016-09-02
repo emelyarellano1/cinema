@@ -1,0 +1,91 @@
+
+.muvie {  
+    color:#BDBDBD; 
+    font-size:14px;
+    font-family:arial;
+    padding-top:30px;
+ 
+}
+.img-banner{
+	background:url("../img/banner.jpg");
+	background-size:cover;
+	background-position: center;
+	padding:9%;
+
+}
+.banner{
+	position:absolute;
+}
+.icino{
+    width:80px;
+    height:80px;
+    position:relative;
+    top:120px;
+    left:220px;
+}
+
+.banner-amarillo{
+	width:1220px;
+	height:290px;
+	background-color:#FF8000;
+}
+
+.img-mini {
+	height:250px;
+	margin-top:20px;
+}
+.banner-blanco{
+	width:1220px;
+	height:370px;
+	background-color:#fff;
+	border:1px solid black;
+}
+.mini2{
+    height:250px;
+	margin-top:20px;	
+}
+
+.buttom-verde {
+	font-size:15px;
+	font-family: arial;
+	border: 2px #04B404 solid;
+	color:#04B404;
+	width: 60%;
+	border-radius:15%;
+	text-align: center;
+}
+
+.tambla {
+	width:100%;
+}
+.tabla2{
+	width:50%;
+}
+
+img {s
+	width:100%;
+}
+
+.mini-2{
+	width:250px;
+	height:290px;
+	margin:20px;
+	margin-top:20px;
+	float:left;
+}
+
+.banner-gris {
+	width:1000px;
+	height:350px;
+	background-color:#F2F2F2;
+	border:1px solid black;
+}
+.cont{
+	margin-bottom:5%; 
+	margin-top:5%;
+}
+.texto-chico{
+	font-size:10px;
+	margin-top:2%;
+	margin-bottom:2%: 
+}
